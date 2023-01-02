@@ -75,3 +75,4 @@ Git rm can be used to remove files from the index and the working directory, thi
 
 ````
 git rm <file-name>
+````
