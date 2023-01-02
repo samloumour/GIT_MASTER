@@ -32,6 +32,11 @@ git push is a command to push local changes to the associated branch, for exampl
 ````
 git push origin master
 ````
+## Git status
+to displays the list of modified files as well as files that still need to be added or validated, we use:
+````
+git status
+````
 ## Branch commands 
 
 ### Git checkout 
