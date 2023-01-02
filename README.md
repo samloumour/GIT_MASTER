@@ -56,3 +56,11 @@ To delete a branch
 ````
 git branch –d <branch-name-to-be-deleted>
 ````
+## Git diff
+The command git diff allows the user to know the list of the conflicts
+
+To visualise the confict between two brnaches, we use:
+````
+git diff <source-branch> <target-branch>
+````
+
