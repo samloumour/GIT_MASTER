@@ -82,3 +82,10 @@ Git fetch allows a user to fetch all files from the remote repository that are n
 ````
 git fetch origin 
 ````
+
+## Git grep 
+Git grep allows a user to search content trees for phrases and/or words. 
+For example, to search for datetime in all files, use:
+````
+git grep "datetime"
+````
