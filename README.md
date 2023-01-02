@@ -69,3 +69,23 @@ For example, to search for datetime in all files, use:
 ````
 git grep "datetime"
 ````
+
+## Git rm 
+Git rm can be used to remove files from the index and the working directory, this file should be at list pushed the first time. We use:
+
+````
+git rm <file-name>
+````
+## Git fetch 
+
+Git fetch allows a user to fetch all files from the remote repository that are not currently in the local working directory. Example of use:
+````
+git fetch origin 
+````
+
+## Git grep 
+Git grep allows a user to search content trees for phrases and/or words. 
+For example, to search for datetime in all files, use:
+````
+git grep "datetime"
+````
