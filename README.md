@@ -71,7 +71,7 @@ git merge <branch-name-not-active>
 ````
 
 ## Git rm 
-Git rm can be used to remove files from the index and the working directory. We use:
+Git rm can be used to remove files from the index and the working directory, this file should be at list pushed the first time. We use:
 
 ````
 git rm <file-name>
