@@ -76,3 +76,9 @@ Git rm can be used to remove files from the index and the working directory, thi
 ````
 git rm <file-name>
 ````
+## Git fetch 
+
+Git fetch allows a user to fetch all files from the remote repository that are not currently in the local working directory. Example of use:
+````
+git fetch origin 
+````
