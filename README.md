@@ -63,4 +63,15 @@ To visualise the confict between two brnaches, we use:
 ````
 git diff <source-branch> <target-branch>
 ````
+## Git merge 
+The git merge command is used to merge a branch into the active branch. We use:
 
+````
+git merge <branch-name-not-active>
+````
+
+## Git rm 
+Git rm can be used to remove files from the index and the working directory. We use:
+
+````
+git rm <file-name>
